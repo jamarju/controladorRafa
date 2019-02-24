@@ -1,11 +1,8 @@
 package rafa.controlador;
 
-import java.io.File;
 import java.io.IOException;
 
-import rafa.controlador.R;
 import android.app.Activity;
-import android.content.Context;
 import android.graphics.Bitmap;
 import android.graphics.BitmapFactory;
 import android.graphics.Canvas;
