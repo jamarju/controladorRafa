@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Ciclotrón</string>
+    <string name="action_settings">Configuración</string>
+    <string name="calibrar">Calibrar</string>
+    <string name="bloquear">Bloquear</string>
+    <string name="title_activity_selector_dispositivo">Ciclotrón</string>
+    <string name="title_activity_creditos">Créditos</string>
+    <string name="hello_world">Hello world!</string>
+
+</resources>
